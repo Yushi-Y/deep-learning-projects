@@ -1,2 +1,2 @@
 # deep-learning-projects
-Deep Learning projects (CNN, VAE, GAN) including coursework from MSc AI.
+Deep Learning projects (CNN, RNN, VAE, GAN) including coursework from MSc AI.
