@@ -1,2 +1,2 @@
 # deep-learning-projects
-A collection of deep learning projects (CNN, RNN, VAE, GAN) from the MSc AI, as well as some freelance deep learning projects.
+Deep learning projects (CNNs, RNNs, VAEs, GANs) from the MSc AI and some freelance deep learning works.
