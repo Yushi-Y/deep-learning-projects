@@ -1,4 +1,4 @@
 # deep-learning-projects
-Deep learning projects on CNN, RNN, VAE, GAN from MSc AI and a biological project on protein sequence classification (upcoming).
+Deep learning projects on CNN, RNN, VAE, GAN and a project on protein sequence classification using Transformers (upcoming).
 
-TO DO: add project descriptions
+TO DO: add individual project descriptions
